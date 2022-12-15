@@ -10,8 +10,9 @@
 - DFS (coming soon...)
 - BFS (coming soon...)
 - Tree (coming soon...)
-- Binary Search
-- Matrix
+- [Binary Search](./problems-by-tag/binary%20search/)
+- [Two Pointers](./problems-by-tag/two%20pointers/)
+- [Matrix](./problems-by-tag/matrix/)
 - Binary Tree (coming soon...)
 - Bit Manipulation (coming soon...)
 - Stack (coming soon...)
