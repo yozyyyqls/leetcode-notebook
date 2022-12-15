@@ -11,7 +11,7 @@ Gievn you an `m*n` matrix `matrix`, if a element is `0`, set its entire column's
 ## Approach 1: Addtional Memory Approcah
 <br/>
 
-<img src="./../../../images/2022-12-15%2021.41.40.png" alt="drawing" width="400"/>
+<img src="./../../../images/73-image-1.png" alt="drawing" width="400"/>
 <br/>
 
 ```python
