@@ -21,5 +21,5 @@
 - Binary Tree (coming soon...)
 - [Bit Manipulation](./problems-by-tag/bit%20manipulation/)
 - [Stack](./problems-by-tag/stack/)
-- Heap (coming soon...)
+- [Heap](./problems-by-tag/heap/)
 - Graph (coming soon...)
