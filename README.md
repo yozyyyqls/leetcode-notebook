@@ -16,6 +16,7 @@
 - BFS (coming soon...)
 - Tree (coming soon...)
 - [Backtraking](./problems-by-tag/backtracking/)
+- [Recursion & Linked List](./problems-by-tag/recursion%20%26%20linked%20list/)
 - [Prefix Sum](./problems-by-tag/prefix%20sum/)
 - [Binary Search](./problems-by-tag/binary%20search/)
 - [Two Pointers](./problems-by-tag/two%20pointers/)
@@ -26,4 +27,5 @@
 - [Heap](./problems-by-tag/heap/)
 - [Hashmap](./problems-by-tag/hashmap/)
 - [Counting](./problems-by-tag/counting/)
+- [Union Find](./problems-by-tag/union%20find/)
 - Graph (coming soon...)
