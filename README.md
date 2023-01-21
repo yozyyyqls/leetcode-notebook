@@ -6,11 +6,11 @@
 
 *Slowly constructing my note...*
 
-## The Knowledge
-- [Binary Search Summary](./fundamental%20knowledge/Binary%20Search%20Summary.md)
+## Summary
+See in Issues.
 
 ## Problem sorted by tag
-- Dynamic Programing (coming soon...)
+- [Dynamic Programing](./problems-by-tag/dynamic%20programming/)
 - Greedy (coming soon...)
 - DFS (coming soon...)
 - BFS (coming soon...)
