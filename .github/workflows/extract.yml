@@ -1,0 +1,18 @@
+name: Extract Numbers from Commit Comments
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  extract-numbers:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Extract numbers from commit comments
+      run: |
+        git log --pretty=format:"%s" | grep -E 'add new solution' | grep -oE '[0-9]+' | tr '\n' ' ' > numbers.txt
