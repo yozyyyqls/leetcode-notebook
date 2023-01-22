@@ -16,3 +16,11 @@ jobs:
     - name: Extract numbers from commit comments
       run: |
         git log --pretty=format:"%s" | grep -E 'add new solution' | grep -oE '[0-9]+' | tr '\n' ' ' > numbers.txt
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload numbers.txt
+      uses: actions/upload-artifact@v2
+      with:
+        name: numbers.txt
+        path: numbers.txt
